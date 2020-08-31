@@ -11,6 +11,7 @@
 
 <!-- VARS -->
 <div align="center">
+    <!--
 ![Node][node-badge]
 ![React][react-badge]
 ![Typescript][typescript-badge]
@@ -18,6 +19,14 @@
 ![Expo][expo-badge]
 ![Knex][knex-badge]
 ![Heroku][heroku-badge]
+-->
+<img src="https://img.shields.io/badge/node-v12.9.1-%238bc500" alt="Node" />
+<img src="https://img.shields.io/badge/react-%5E16.13.1-%2300d8ff" alt="React" />
+<img src="https://img.shields.io/badge/typescript-%5E3.7.5-%232d79c7" alt="Typescript" />
+<img src="https://img.shields.io/badge/react--native-~0.61.17-%2300d8ff" alt="React-Native" />
+<img src="https://img.shields.io/badge/expo-~37.0.3-%23000020" alt="Expo" />
+<img src="https://img.shields.io/badge/knex-%5E0.21.1-%23e16426" alt="Knex" />
+<img src="https://img.shields.io/badge/heroku-active-%238052bc" alt="Heroku" />
 </div>
 <h1 align="center">
     Ecoleta - NLW#1
