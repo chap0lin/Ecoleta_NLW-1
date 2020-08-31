@@ -11,13 +11,13 @@
 
 <!-- VARS -->
 <div align="center">
-    ![Node][node-badge]
-    ![React][react-badge]
-    ![Typescript][typescript-badge]
-    ![React-Native][reactnative-badge]
-    ![Expo][expo-badge]
-    ![Knex][knex-badge]
-    ![Heroku][heroku-badge]
+![Node][node-badge]
+![React][react-badge]
+![Typescript][typescript-badge]
+![React-Native][reactnative-badge]
+![Expo][expo-badge]
+![Knex][knex-badge]
+![Heroku][heroku-badge]
 </div>
 <h1 align="center">
     Ecoleta - NLW#1
