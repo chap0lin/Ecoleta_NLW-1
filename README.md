@@ -19,7 +19,10 @@
     ![Knex][knex-badge]
     ![Heroku][heroku-badge]
 </div>
-# Ecoleta - NLW#1
+<h1 align="center">
+    Ecoleta - NLW#1
+</h1>
+
 <p align="center" >
     <img alt="Screenshot" title="" src="screenshot.png" width="512" />
 </p>
